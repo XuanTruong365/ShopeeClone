@@ -1,0 +1,331 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Balo du lịch thời trang giá rẻ sinh viên siêu đẹp, cute",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "price": "45.000",
+            "sale": "120.999",
+            "percent":20,
+            "sold": 80
+        },
+        {
+            "id": 2,
+            "title": "Áo thun nam dài tay thời trang",
+            "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+            "price": "119.000",
+            "sale": "200.999",
+            "percent":10,
+            "sold": 100
+        },
+        {
+            "id": 3,
+            "title": "Áo khoác nam phong cách châu âu",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+            "price": "499.000",
+            "sale": "599.999",
+            "percent":20,
+            "sold":28
+        },
+        {
+            "id": 4,
+            "title": "Áo thun cổ tim dài tay nam",
+            "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+            "price": "99.000",
+            "sale": "119.999",
+            "percent":20,
+            "sold": 88
+        },
+        {
+            "id": 5,
+            "title": "Vòng tay phong cách giới trẻ",
+            "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+            "price": "1.999.000",
+            "sale": "2.000.000",
+            "percent":20,
+            "sold":30
+        },
+        {
+            "id": 6,
+            "title": "Lắc tay nam, siêu nam tính",
+            "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+            "price": "999.000",
+            "sale": "1.599.999",
+            "percent":30,
+            "sold": 8
+        },
+        {
+            "id": 7,
+            "title": "Nhẫn nam trang sức giới trẻ asus",
+            "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+            "price": "499.000",
+            "sale": "599.999",
+            "percent":20,
+            "sold": 88
+        },
+        {
+            "id": 8,
+            "title": "Nhẫn đôi nam nữ siêu cá tính",
+            "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+            "price": "999.000",
+            "sale": "1.000.000",
+            "percent":20,
+            "sold": 88
+        },
+        {
+            "id": 9,
+            "title": "Loa mini âm thanh sống động giá rẻ",
+            "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+            "price": "999.000",
+            "sale": "1.099.999",
+            "percent":20,
+            "sold": 88
+        },
+        {
+            "id": 10,
+            "title": "Ổ cứng máy tính, laptop giá rẻ",
+            "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+            "price": "2.999.000",
+            "sale": "3.000.000",
+            "percent":20,
+            "sold": 88
+        },
+        {
+            "id": 11,
+            "title": "Ổ cứng chính hãng",
+            "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+            "price": "3.999.000",
+            "sale": "4.599.999",
+            "percent":20,
+            "sold": 88
+        },
+        {
+            "id": 12,
+            "title": "Loa nghe nhạc, âm thanh sống động, giá cả phù hợp",
+            "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+            "price": "999.000",
+            "sale": "1.000.999",
+            "percent":20,
+            "sold": 88
+        },
+        {
+            "id": 13,
+            "title": "Tivi LG màn hình 4k full hd",
+            "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+            "price": "19.999.000",
+            "sale": "20.599.999",
+            "percent":20,
+            "sold": 88
+        },
+        {
+            "id": 14,
+            "title": "Màn hình máy tính gamming",
+            "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+            "price": "10.999.000",
+            "sale": "12.599.999",
+            "percent":20,
+            "sold": 88
+        },
+        {
+            "id": 15,
+            "title": "Áo dạ nữ",
+            "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+            "price": "19.999.000",
+            "sale": "20.599.999",
+            "percent":20,
+            "sold": 88
+        },
+        {
+            "id": 16,
+            "title": "Áo da nữ, thời trang châu âu",
+            "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+            "price": "1.999.000",
+            "sale": "2.599.999",
+            "percent":50,
+            "sold": 29
+        },
+        {
+            "id": 17,
+            "title": "Áo khoác bò nữ, hàng xuất châu âu",
+            "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+            "price": "999.000",
+            "sale": "1.100.999",
+            "percent":20,
+            "sold": 50
+        },
+        {
+            "id": 18,
+            "title": "Áo thun nam nữ",
+            "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+            "price": "99.000",
+            "sale": "120.000",
+            "percent":5,
+            "sold": 888
+        },
+        {
+            "id": 19,
+            "title": "Áo thun nữ, cá tính",
+            "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+            "price": "19.999.000",
+            "sale": "20.599.999",
+            "percent":20,
+            "sold": 88
+        },
+        {
+            "id": 20,
+            "title": "Áo thun nữ, phong cách đặc biệt phù hợp mọi tín đồ thời trang",
+            "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+            "price": "130.000",
+            "sale": "299.999",
+            "percent":60,
+            "sold": 100
+        },
+        {
+            "id": 21,
+            "title": "Túi sách nữ, đeo chéo kẹp nách giá rẻ",
+            "image": "https://cf.shopee.vn/file/da1e1b59b2213f6881aba0750f62c046_tn",
+            "price": "75.000",
+            "sale": "100.999",
+            "percent":25,
+            "sold": 599
+        },
+        {
+            "id": 19,
+            "title": "Áo khoác Cadigan, chất nỉ trần bông, phối viền, có hai túi.",
+            "image": "https://cf.shopee.vn/file/sg-11134201-22100-68ey655r2vivde_tn",
+            "price": "99.000",
+            "sale": "188.999",
+            "percent":50,
+            "sold": 200
+        },
+        {
+            "id": 19,
+            "title": "Quần tây ồng leo nữ, cạp lưng cao một khuy chất vải mịn",
+            "image": "https://cf.shopee.vn/file/b3918c0d28006183521027dc40ea20b4_tn",
+            "price": "99.000",
+            "sale": "120.000",
+            "percent":20,
+            "sold": 88
+        },
+        {
+            "id": 19,
+            "title": "4 Thỏi son kem nhung lì, dưỡng ẩm môi",
+            "image": "https://cf.shopee.vn/file/e91383633d204c8c9609dbc18cc32884_tn",
+            "price": "9000",
+            "sale": "15.999",
+            "percent":45,
+            "sold": 88
+        }
+    ],
+    "productsTop": [
+        {
+            "id":1,
+            "name": "Áo hoodie nam nữ",
+            "image": "https://cf.shopee.vn/file/e6f8f3864f1169cce1f737d5741dab1a",
+            "quantity": 10
+        },
+        {
+            "id":2,
+            "name": "Son kem lì",
+            "image": "https://cf.shopee.vn/file/ee2b1da4a8393468cfdbae245f39f62c",
+            "quantity": 10
+        },
+        {
+            "id":3,
+            "name": "Sữa dưỡng thể",
+            "image": "https://cf.shopee.vn/file/ba38303ecd2cde06a84a9bbf2fa939be",
+            "quantity": 10
+        },
+        {
+            "id":4,
+            "name": "Đồ chơi lego",
+            "image": "https://cf.shopee.vn/file/d2ba96639d718ff3ca9926122fb3ef72",
+            "quantity": 10
+        },
+        {
+            "id":5,
+            "name": "Bút quay",
+            "image": "https://cf.shopee.vn/file/119d075279421eb02089c1c2397c8855",
+            "quantity": 10
+        },
+        {
+            "id":6,
+            "name": "Sửa rửa mặt simple",
+            "image": "https://cf.shopee.vn/file/8382b56201318e6307cba17208e30de3",
+            "quantity": 10
+        },
+        {
+            "id":7,
+            "name": "Tai nghe nhét tai",
+            "image": "https://cf.shopee.vn/file/e75ede508e8ef1468768a98f1541ba4b",
+            "quantity": 10
+        },
+        {
+            "id":8,
+            "name": "Kính cường lực kinkkong",
+            "image": "https://cf.shopee.vn/file/0fdcf06ccfb4ef54fe2428ff6420f20d",
+            "quantity": 10
+        },
+        {
+            "id":9,
+            "name": "Thắt lưng nam",
+            "image": "https://cf.shopee.vn/file/8d70fb7b8d8462960bd8b5db7c915eb3",
+            "quantity": 10
+        },
+        {
+            "id":10,
+            "name": "Mắt kính gọng tròn",
+            "image": "https://cf.shopee.vn/file/585fb9316a9bc9b9ab79157557bd382d",
+            "quantity": 10
+        },
+        {
+            "id":11,
+            "name": "Áo gió nam",
+            "image": "https://cf.shopee.vn/file/9d3a65388de22c00d579498232c43ab1",
+            "quantity": 10
+        },
+        {
+            "id":12,
+            "name": "Bút mực mujji",
+            "image": "https://cf.shopee.vn/file/78befdadd02b6abe2bae076580fc38be",
+            "quantity": 10
+        },
+        {
+            "id":13,
+            "name": "Bánh tráng bơ",
+            "image": "https://cf.shopee.vn/file/586b9ea48feb321985e7cfda391fc848",
+            "quantity": 10
+        },
+        {
+            "id":14,
+            "name": "Dây nhảy thể dục",
+            "image": "https://cf.shopee.vn/file/7ccebb7910c00edd0b767d1f75c03fd2",
+            "quantity": 10
+        },
+        {
+            "id":15,
+            "name": "Súp thưởng cho mèo",
+            "image": "https://cf.shopee.vn/file/47676addf48f08d4a1c16334721073d3",
+            "quantity": 10
+        },
+        {
+            "id":16,
+            "name": "Tinh dầu thiên nhiên nguyên chất",
+            "image": "https://cf.shopee.vn/file/963b98d2d09080a1f9e140c598efb6d7",
+            "quantity": 10
+        },
+        {
+            "id":17,
+            "name": "Bao cao su",
+            "image": "https://cf.shopee.vn/file/5eb04768e43afb6adabcaee8ba0fd736",
+            "quantity": 10
+        },
+        {
+            "id":18,
+            "name": "Hộp giấy",
+            "image": "https://cf.shopee.vn/file/ba6efd5b95338b1c03bac89c59fd6b36",
+            "quantity": 10
+        }
+
+    ]
+}

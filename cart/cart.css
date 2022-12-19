@@ -1,0 +1,248 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.free-ship {
+    font-size: 16px;
+    height: 45px;
+    line-height: 45px;
+    border: 1px solid rgba(224,168,0,.4);
+    background-color: #fffefb;
+    margin: 20px 0;
+}
+
+.free-ship i {
+    color: #0cd9f6;
+    margin: 0 16px;
+    font-size: 20px;
+}
+
+.product-check {
+    display: flex;
+    justify-content: space-between;
+    height: 68px;
+    line-height: 68px;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+    background-color: #fff;
+}
+
+.check-left {
+    display: flex;
+    gap: 30px;
+    font-size: 16px;
+    margin-left: 36px;
+}
+
+.product-__nav {
+    display: flex;
+    font-size: 16px;
+    gap: 78px;
+    margin-right: 48px;
+}
+
+.cart-namepage {
+    display: flex;
+    gap: 30px;
+    height: 58px;
+    font-size: 16px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+}
+
+#nameshop {
+    margin-left: 38px;
+}
+
+.shop-like {
+    height: 21px;
+    padding: 2px 10px;
+    border-radius: 3px;
+    color: #fff;
+    margin: 19px 0 0 0;
+    background-color: var(--primary-color);
+}
+
+.shop {
+    font-size: 16px;
+    text-transform: capitalize;
+    line-height: 58px;
+}
+
+.view-home {
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+.cart-body {
+    font-size: 16px;
+    line-height: 58px;
+    background-color: #fff3ed;
+}
+
+.combo {
+    border: 1px solid var(--primary-color);
+    padding: 2px;
+    font-size: 14px;
+    margin-left: 15px;
+    color: var(--primary-color);
+}
+
+.title {
+    font-size: 16px;
+    margin: 0 10px;
+    text-transform: initial;
+}
+
+.more {
+    color: var(--primary-color);
+    text-transform: capitalize;
+}
+
+.cart-home {
+ display: flex;
+}
+#cart-1 {
+    margin-left: 19px;
+}
+
+.cart-img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    margin-left: 26px;
+}
+
+.cart-title {
+    font-size: 16px;
+    width: 238px;
+    height: 48px;
+    padding: 5px 15px;
+    line-height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    word-break: break-all;
+}
+
+.type__product {
+    padding: 22px 0;
+}
+
+.product-type {
+    font-size: 14px;
+    text-transform: capitalize;
+    padding-bottom: 10px;
+}
+
+.type-list {
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+.price-list {
+    display: flex;
+    font-size: 16px;
+    gap: 10px;
+    margin: 0 10px 0 48px;
+    padding: 22px 0;
+}
+
+.quantity-edt {
+    padding: 22px 0;
+}
+
+.total__price {
+    font-size: 16px;
+    padding: 22px 38px;
+    text-align: center;
+    color: var(--primary-color);
+}
+
+.delete-product {
+    width: 133px;
+}
+
+.del-title {
+    font-size: 20px;
+    padding: 10px 51px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.list-more {
+    font-size: 16px;
+    text-align: center;
+    line-height: 18px;
+    color: var(--primary-color);
+}
+ .home__cart-container {
+    background-color: #fff;
+    padding: 20px
+}
+
+.voucher {
+    display: flex;
+    gap: 30px;
+    height: 58px;
+    font-size: 16px;
+    background-color: #fff;
+    padding-left: 46px;
+    border-top: 1px solid #ccc;
+}
+
+.voucher-shop {
+    line-height: 58px;
+}
+
+.voucher-view {
+    line-height: 58px;
+    color: blue;
+}
+
+.buying-product {
+    margin-top: 36px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    height: 58px;
+    margin-bottom: 20px;
+    border: 1px solid var(--primary-color);
+}
+
+.buy-right {
+    display: flex;
+    gap: 30px;
+    margin-right: 20px;
+    align-items: center;
+    font-size: 16px;
+}
+
+.buy-left {
+    display: flex;
+    gap: 30px;
+    font-size: 16px;
+    align-items: center;
+    text-align: center;
+    margin: 0 42px;
+    text-transform: capitalize;
+}
+
+.price-all {
+    color: var(--primary-color);
+}
+
+.btn-buy {
+    padding: 10px 58px;
+    font-size: 18px;
+    color: #fff;
+    text-transform: capitalize;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: var(--primary-color);
+}
+
