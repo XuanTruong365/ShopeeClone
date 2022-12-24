@@ -1140,6 +1140,7 @@ color: var(--while-color);
 
 .flash__sale-items,.flash__sale-items-1 {
     position: relative;
+    text-decoration: none;
 }
 
 .flash__sale-items__sale-off {
@@ -1214,7 +1215,8 @@ color: var(--while-color);
 
 .flash__sale-kpi {
     position: relative;
-    height: 16px;
+    height: 20px;
+    line-height: 20px;
     width: 100%;
     font-size: 12px;
     text-align: center;
