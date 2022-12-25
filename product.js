@@ -107,10 +107,7 @@ function addProduct() {
         </div>
       </div>
 
-      <div class="header__cart-item-body">
-        <span class="header__cart-item-description">Phân loại hàng: Bạc</span>
-        <span class="header__cart-item-remove">Xóa</span>
-      </div>
+      
     </div>
     </li>
     `
@@ -120,6 +117,15 @@ function addProduct() {
     //     itemCart.style=`display:none`;
     // })
 }
+
+const removeCart = document.queryCommandValue(".header__cart-item-info")
+const close = document.querySelector(".header__cart-item-remove")
+console.log(close)
+close.addEventListener("click", ()=>{
+    removeCart.style = `display: none`
+    alert("Bạn có thực sự muốn xoá.")
+})
+
 
 add.addEventListener("click", ()=> {
     addProduct()
