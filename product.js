@@ -31,7 +31,11 @@ function handleLike() {
 const up = document.querySelector(".up")
 const down = document.querySelector(".down")
 const valueNumber = document.querySelector(".value-number")
+const up2 = document.querySelector(".up-2")
+const down2 = document.querySelector(".down-2")
+const valueNumber2 = document.querySelector(".value-number-2")
 let quantityIndex = Number(valueNumber.value)
+let quantityIndex2 = Number(valueNumber2.value)
 
 
 function likeDown() {
@@ -40,15 +44,21 @@ function likeDown() {
     }
     quantityIndex-= 1;
     valueNumber.value = quantityIndex;
+    quantityIndex2 -= 1;
+    valueNumber2.value = quantityIndex2;
 }
 
 function likeUp() {
     quantityIndex+=1;
     valueNumber.value = quantityIndex;
+    quantityIndex2 +=1;
+    valueNumber2.value = quantityIndex2;
 }
 
 up.addEventListener("click", likeUp)
 down.addEventListener("click", likeDown)
+up2.addEventListener("click", likeUp)
+down2.addEventListener("click", likeDown)
 
 // Total like end
 

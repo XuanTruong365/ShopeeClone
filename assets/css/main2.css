@@ -1157,7 +1157,7 @@ color: var(--while-color);
 .flash__sale-items__sale-off::after {
     position: absolute;
     content: "";
-    bottom: -6px;
+    bottom: -5px;
     left: 0;
     border-width: 0 20px 6px;
     border-style: solid;
@@ -3063,14 +3063,6 @@ i.home-product-items__like-icons-fill {
 
 .mb-price {
     display: none;
-}
-
-.price-list {
-    display: flex;
-    font-size: 16px;
-    gap: 10px;
-    margin: 0 10px 0 10px;
-    padding: 22px 0;
 }
 
 .free-ship i {

@@ -71,7 +71,7 @@ function renderUiCart(arr) {
                     <input name="ids[]" type="text" class="value-number" placeholder="1">
                     <button class="up">+</button>
                 </div>
-                <div class="total__price"></div>
+                <div class="total__price">${(c.price * 1000).toLocaleString('de-DE')}</div>
                 <div class="delete-product">
                     <div class="del-title">xoá</div>
                     <div class="list-more"> Tìm thêm sản phẩm tương tự </div>
@@ -111,7 +111,7 @@ const down = document.querySelector(".down")
 const valueNumber = document.querySelector(".value-number")
 const total = document.querySelector(".total__price")
 const price = document.querySelector(".price-real")
-let quantityIndex = 0
+let quantityIndex = 1
 let priceReal = price.innerHTML
 let totalAll = 0;
 

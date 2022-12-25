@@ -211,22 +211,22 @@
     .quantity {
         display: flex;
         gap: 0px;
-        font-size: 14px;
+        font-size: 12px;
         color: #000;
         margin-bottom: 36px;
         align-items: center;
     }
 
-    .home-product-items__sale-off-percent {
+    .home-product-items__sale-off-percent, .flash__sale-items__sale-off-percent {
         font-size: 1rem;
         line-height: 1rem;
     }
 
-    .home-product-items__sale-off-lable {
+    .home-product-items__sale-off-lable, .flash__sale__sale-off-lable {
         font-size: 1rem;
     }
 
-    .home-product-items__sale-off {
+    .home-product-items__sale-off, .flash__sale-items__sale-off {
         height: 36px;
     }
 }
