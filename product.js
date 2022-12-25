@@ -135,6 +135,11 @@ add2.addEventListener("click", ()=> {
     addProduct()
 })
 
+const Cart = document.querySelector(".header__cart")
+const listCart = document.querySelector(".header__cart-list")
+Cart.addEventListener("onmouseover",() => {
+    listCart.style = `display: block`
+})
 // add product end
 
 
