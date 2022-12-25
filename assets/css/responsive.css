@@ -208,6 +208,15 @@
         bottom: 0;
     }
 
+    .quantity {
+        display: flex;
+        gap: 0px;
+        font-size: 14px;
+        color: #000;
+        margin-bottom: 36px;
+        align-items: center;
+    }
+
 }
 
 /* Tablet */

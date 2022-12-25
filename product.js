@@ -65,6 +65,7 @@ const noCart = document.querySelector(".header__cart-no-cart-img")
 const heading = document.querySelector(".header__cart-heading");
 const btn =document.querySelector(".header__cart-view-cart")
 const closeProduct = document.querySelector(".header__cart-item-remove");
+const add2 = document.querySelector(".add-card-2")
 
 
 function addProduct() {
@@ -104,13 +105,17 @@ function addProduct() {
     </li>
     `
     }
-    closeProduct.addEventListener("click", ()=>{
-        confirm("Bạn có muốn xoá sản phẩm");
-        itemCart.style=`display:none`;
-    })
+    // closeProduct.addEventListener("click", ()=>{
+    //     confirm("Bạn có muốn xoá sản phẩm");
+    //     itemCart.style=`display:none`;
+    // })
 }
 
 add.addEventListener("click", ()=> {
+    addProduct()
+})
+
+add2.addEventListener("click", ()=> {
     addProduct()
 })
 
