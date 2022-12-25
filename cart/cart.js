@@ -20,7 +20,7 @@ function renderUiCart(arr) {
     const c = arr[i];
 
     totalPrice.innerHTML += `
-        <div class="free-ship">
+        <div class="free-ship row">
         <i class="fa-solid fa-truck-arrow-right right-icon"></i>
         Nhấn vào mục mã giảm giá ở cuối trang để hưởng miễn phí vận chuyển bạn nhé!
         </div>
@@ -56,6 +56,7 @@ function renderUiCart(arr) {
             <div class="cart-home">
                 <input name="ids[]" type="checkbox" id="cart-1">
                 <img src="${c.image}" alt="" class="cart-img">
+                <div class="cart-home-if">
                 <div class="cart-title">${c.title}</div>
                 <div class="type__product">
                     <div class="product-type">phân loại hàng</div>
@@ -75,6 +76,7 @@ function renderUiCart(arr) {
                     <div class="del-title">xoá</div>
                     <div class="list-more"> Tìm thêm sản phẩm tương tự </div>
                 </div>
+                </div>
             </div>
         </div>
         </div>
@@ -92,6 +94,7 @@ function renderUiCart(arr) {
       <div class="del-product">xoá</div>
       </div>
       <div class="buy-right">
+        <div class="total-all-sub">Tổng: </div>
         <div class="total-all">Tổng thanh toán <span class="total-product">(1 sản phẩm):</span></div>
         <div class="price-all"></div>
         <button class="btn-buy">mua hàng</button>
