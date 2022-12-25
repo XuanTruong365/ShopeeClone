@@ -217,6 +217,15 @@
         align-items: center;
     }
 
+    .home-product-items__sale-off-percent {
+        font-size: 1rem;
+        line-height: 1.4rem;
+    }
+
+    .home-product-items__sale-off-lable {
+        font-size: 1rem;
+    }
+
 }
 
 /* Tablet */
