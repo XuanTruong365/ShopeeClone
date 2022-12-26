@@ -21,8 +21,8 @@ function renderUiCart(arr) {
 
     totalPrice.innerHTML += `
         <div class="free-ship row">
-        <i class="fa-solid fa-truck-arrow-right right-icon"></i>
-        Nhấn vào mục mã giảm giá ở cuối trang để hưởng miễn phí vận chuyển bạn nhé!
+        <div class="cart-icon"> <i class="fa-solid fa-truck-arrow-right right-icon"></i> </div>
+        <div class="cart-title-2">Nhấn vào mục mã giảm giá ở cuối trang để hưởng miễn phí vận chuyển bạn nhé!</div>
         </div>
     <div class="product-check">
         <div class="check-left">

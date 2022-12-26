@@ -127,6 +127,17 @@ body {
     word-break: break-all;
 }
 
+.cart-title-2 {
+    width: 80%;
+    line-height: 45px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    word-break: break-all;
+    text-overflow: ellipsis;
+}
+
 .type__product {
     padding: 22px 0;
 }

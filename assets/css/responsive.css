@@ -128,10 +128,10 @@
 
     .cart-home-if {
         width: 100%;
-        padding: 20px;
+        /* padding: 20px; */
         flex-direction: column;
     }
-    
+
     .cart-title {
         word-break: break-word;
         padding: 5px 15px;
@@ -154,23 +154,13 @@
         display: none;
     }
 
-    .cart-img {
-        margin-top: 118px;
-    }
-
     .body-container {
         margin-top: 115px !important;
-        width: 679px;
+        /* width: 679px; */
     }
 
     .free-ship i {
         line-height: 45px;
-    }
-
-    .btn-buy {
-        width: 99px;
-        height: 38px;
-        padding: 0;
     }
 
     .footer-hide {
@@ -229,6 +219,7 @@
     .home-product-items__sale-off, .flash__sale-items__sale-off {
         height: 36px;
     }
+
 }
 
 /* Tablet */
@@ -333,6 +324,15 @@
         border: none;
         margin-left: 20px;
         cursor: pointer;    
+    }
+
+    .product-check {
+        display: none;
+    }
+
+    .buying-product {
+        margin-top: 0;
+        bottom: unset;
     }
 
 }
@@ -535,6 +535,83 @@
         line-height: 45px;
     }
 
+    #cart-1 {
+        margin-left: 5px;
+    }
+
+    .cart-home {
+        gap: 0;
+    }
+
+    .cart-img {
+        margin-top: 22%;
+        margin-left: 5px;
+        width: 50px;
+        height: 80px;
+    }
+    
+    .buying-product {
+        margin-bottom: 0;
+    }
+
+    .buy-left {
+        margin: 0;
+        gap: 10px;
+        font-size: 12px;
+    }
+
+    .buy-left input {
+        margin-left: 5px;
+    }
+
+    .buy-right {
+        margin: 0;
+        gap: 10px;
+        font-size: 12px;
+    }
+
+    .btn-buy {
+        width: 80px;
+        height: 38px;
+        padding: 0;
+        font-size: 12px;
+    }
+
+    .voucher {
+        padding-left: 10px;
+    }
+
+    .home__cart-container {
+        padding: 0;
+    }
+
+    .cart-title-2 {
+        width: 77%;
+        line-height: 20px;
+        height: 40px;
+    }
+
+    .cart-namepage {
+        gap: 10px;
+        margin-bottom: 10px;
+    }
+
+    .cart-body {
+        font-size: 12px;
+        line-height: 48px
+    }
+
+    .combo, .title {
+        font-size: 12px;
+    }
+
+    #nameshop {
+        margin-left: 5px;
+    }
+
+     .header__search {
+        display: none;
+    }
 }
 
 @media (min-width: 1024px) and (max-width: 1367px) {
